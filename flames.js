@@ -37,7 +37,7 @@ switch (arr[i]) {
 		document.getElementById("result").innerHTML = "Enemy";
 		break;
 	case "S":
-		document.getElementById("result").innerHTML = "Sex";
+		document.getElementById("result").innerHTML = "Siblings";
 		break;			
 }
 document.getElementById("result").style.display="block";
